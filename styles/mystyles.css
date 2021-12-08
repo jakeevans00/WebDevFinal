@@ -1,0 +1,48 @@
+.myheadertext {
+    /* color: rgb(180, 171, 118); */
+    color: rgb(250, 250, 250);
+    font-weight: bold;
+    font-size: 150px;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+}
+.mysubheadtext {
+    font-family: 'Corinthia', cursive;
+    font-size: 35px;
+}
+
+.professionaltext {
+    font-family: 'Playfair Display SC', serif;
+}
+
+
+.mybodytext {
+    color:rgb(14, 12, 12);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    color: rgb(47, 53, 58);
+}
+
+.aboutmesubheaders {
+    color:rgb(221, 220, 220);
+}
+
+.bg{
+    background-color: rgb(121, 109, 126);
+    background: linear-gradient( to right, rgb(187, 148, 117), rgb(139, 97, 139));
+}
+
+.aboutbg {
+    background:linear-gradient(to left,rgb(206, 184, 60), rgb(163, 85, 66));
+}
+.italicize {font-style:italic; font-style:bold;}
+.normal {font-style: normal;}
+
+a{
+    color:rgb(33, 54, 121);
+}
+.padding{
+    padding: 10px;
+}
+
